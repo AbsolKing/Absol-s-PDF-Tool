@@ -1,2 +1,2 @@
 # Absol's PDF Tool
-for image and PDF compression and conversion
+This script recursively compresses images (JPEG, PNG, BMP, etc.) and PDFs into lightweight PDFs while preserving the folder structure.
