@@ -7,7 +7,8 @@ This script recursively compresses images (JPEG, PNG, BMP, etc.) and PDFs into l
 `gs10050w64.exe`
 `ImageMagick-7.1.1-47-Q16-HDRI-x64-dll.exe`
 `final_script.cmd`
-2. Run the 2 `exe` files containing the dependencies 
+2. Run the 2 `exe` files containing the dependencies.
+3. All done! Now move on to making the folder structure.
 
 ## 📁 Folder Structure
 
